@@ -1,2 +1,2 @@
 # Wypozyczalnia-Samochodowa
-Projekt Wypozyczalnii samochodowej zrealizowany w jezyku java
+Projekt Wypozyczalni samochodowej zrealizowany w jezyku java
