@@ -12,6 +12,7 @@ Projekt wypożyczalni samochodowej oparty na architekturze Klient/Serwer, zreali
 ![image](https://user-images.githubusercontent.com/59510358/222788449-a2afce5d-b7e4-42c6-92ed-98e9e92afd3f.png)
 
 <b> Widok rezerwacji </b>
+
 ![image](https://user-images.githubusercontent.com/59510358/222788520-4fc4fc44-fb1a-425c-a9f3-b23238e0093a.png)
 
 <b> Panel Administratora </b>
