@@ -1,2 +1,2 @@
 # Wypozyczalnia-Samochodowa
-Projekt wypożyczalni samochodowej zrealizowany w technologiach: Java/Java Swing/MySQL.
+Projekt wypożyczalni samochodowej oparty na architekturze Klient/Serwer, zrealizowany w technologiach: Java/Java Swing/MySQL.
