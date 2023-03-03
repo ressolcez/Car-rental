@@ -3,6 +3,10 @@ Projekt wypożyczalni samochodowej oparty na architekturze Klient/Serwer, zreali
 
 # Przykładowe screeny prezentujące wygląd aplikacji
 
+<b> Logowanie </b>
+
+![image](https://user-images.githubusercontent.com/59510358/222790377-5b82a385-2ac2-44f1-995b-0190c574aee3.png)
+
 <b>Panel użytkownika</b>
 
 ![image](https://user-images.githubusercontent.com/59510358/222786200-ab43ef6b-56e8-43ab-8a88-7a92959f8878.png)
