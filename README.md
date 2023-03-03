@@ -1,2 +1,2 @@
 # Wypozyczalnia-Samochodowa
-Projekt Wypozyczalni samochodowej zrealizowany w jezyku java
+Projekt Wypozyczalni samochodowej zrealizowany w technologiach: Java/Java Swing
